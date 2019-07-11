@@ -1,0 +1,150 @@
+00:00.506	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.515	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki 3.0 started. Node id is set to 2.
+00:00.521	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+00:00.523	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.529	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki 3.0 started. Node id is set to 6.
+00:00.534	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.536	ID:2	Starting 'UDP client process'
+00:00.537	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.538	ID:2	UDP client process started
+00:00.543	ID:2	Client IPv6 addresses: aaaa::212:7402:2:202
+00:00.546	ID:2	fe80::212:7402:2:202
+00:00.548	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+00:00.550	ID:6	Starting 'UDP server process'
+00:00.551	ID:2	Created a connection with the server :: local/remote port 8765/5678
+00:00.552	ID:6	UDP server started
+00:00.556	ID:6	created a new RPL dag
+00:00.560	ID:6	Server IPv6 addresses: aaaa::212:7406:6:606
+00:00.562	ID:6	aaaa::ff:fe00:1
+00:00.565	ID:6	fe80::212:7406:6:606
+00:00.572	ID:6	Created a server connection with remote address :: local/remote port 5678/8765
+00:00.618	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.627	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki 3.0 started. Node id is set to 4.
+00:00.635	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.646	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.648	ID:4	Starting 'UDP client process'
+00:00.651	ID:4	UDP client process started
+00:00.652	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.655	ID:4	Client IPv6 addresses: aaaa::212:7404:4:404
+00:00.658	ID:4	fe80::212:7404:4:404
+00:00.661	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki 3.0 started. Node id is set to 1.
+00:00.663	ID:4	Created a connection with the server :: local/remote port 8765/5678
+00:00.669	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.680	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.682	ID:1	Starting 'UDP client process'
+00:00.685	ID:1	UDP client process started
+00:00.689	ID:1	Client IPv6 addresses: aaaa::212:7401:1:101
+00:00.692	ID:1	fe80::212:7401:1:101
+00:00.697	ID:1	Created a connection with the server :: local/remote port 8765/5678
+00:00.985	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:00.994	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki 3.0 started. Node id is set to 5.
+00:01.002	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.013	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:01.015	ID:5	Starting 'UDP client process'
+00:01.017	ID:5	UDP client process started
+00:01.022	ID:5	Client IPv6 addresses: aaaa::212:7405:5:505
+00:01.025	ID:5	fe80::212:7405:5:505
+00:01.030	ID:5	Created a connection with the server :: local/remote port 8765/5678
+00:01.169	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.178	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki 3.0 started. Node id is set to 3.
+00:01.186	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.197	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.199	ID:3	Starting 'UDP client process'
+00:01.202	ID:3	UDP client process started
+00:01.206	ID:3	Client IPv6 addresses: aaaa::212:7403:3:303
+00:01.209	ID:3	fe80::212:7403:3:303
+00:01.214	ID:3	Created a connection with the server :: local/remote port 8765/5678
+00:07.190	ID:3	fe80::212:7406:6:606
+00:08.432	ID:1	fe80::212:7403:3:303
+00:08.449	ID:3	fe80::212:7406:6:606
+00:08.525	ID:4	fe80::212:7403:3:303
+00:08.640	ID:4	fe80::212:7403:3:303
+00:08.674	ID:1	fe80::212:7403:3:303
+00:08.947	ID:3	fe80::212:7406:6:606
+00:09.191	ID:3	fe80::212:7406:6:606
+00:09.197	ID:3	fe80::212:7406:6:606
+00:09.641	ID:4	fe80::212:7403:3:303
+00:09.674	ID:1	fe80::212:7403:3:303
+00:09.904	ID:4	fe80::212:7403:3:303
+00:09.911	ID:2	fe80::212:7403:3:303
+00:09.952	ID:3	fe80::212:7406:6:606
+00:10.164	ID:2	fe80::212:7403:3:303
+00:10.186	ID:1	fe80::212:7403:3:303
+00:10.205	ID:3	fe80::212:7406:6:606
+00:10.212	ID:3	fe80::212:7406:6:606
+00:10.220	ID:3	fe80::212:7406:6:606
+00:10.228	ID:3	fe80::212:7406:6:606
+00:10.529	ID:2	fe80::212:7403:3:303
+00:10.535	ID:2	fe80::212:7403:3:303
+00:10.641	ID:4	fe80::212:7403:3:303
+00:10.675	ID:1	fe80::212:7403:3:303
+00:11.193	ID:3	fe80::212:7406:6:606
+00:11.528	ID:2	fe80::212:7403:3:303
+00:13.194	ID:3	fe80::212:7406:6:606
+00:15.033	ID:2	fe80::212:7403:3:303
+00:15.055	ID:1	fe80::212:7403:3:303
+00:15.145	ID:4	fe80::212:7403:3:303
+00:15.530	ID:2	fe80::212:7403:3:303
+00:15.642	ID:4	fe80::212:7403:3:303
+00:15.676	ID:1	fe80::212:7403:3:303
+00:17.537	ID:2	fe80::212:7403:3:303
+00:17.574	ID:3	fe80::212:7406:6:606
+00:17.649	ID:4	fe80::212:7403:3:303
+00:17.771	ID:4	fe80::212:7403:3:303
+00:17.807	ID:1	fe80::212:7403:3:303
+00:17.826	ID:3	fe80::212:7406:6:606
+00:18.193	ID:3	fe80::212:7406:6:606
+00:18.200	ID:3	fe80::212:7406:6:606
+00:18.207	ID:3	fe80::212:7406:6:606
+00:18.534	ID:2	fe80::212:7403:3:303
+00:18.542	ID:2	fe80::212:7403:3:303
+00:18.548	ID:2	fe80::212:7403:3:303
+00:18.555	ID:2	fe80::212:7403:3:303
+00:18.556	ID:1	fe80::212:7403:3:303
+00:18.575	ID:3	fe80::212:7406:6:606
+00:18.642	ID:4	fe80::212:7403:3:303
+00:18.649	ID:4	fe80::212:7403:3:303
+00:18.676	ID:1	fe80::212:7403:3:303
+00:18.682	ID:1	fe80::212:7403:3:303
+00:19.195	ID:3	fe80::212:7406:6:606
+00:19.641	ID:4	fe80::212:7403:3:303
+00:20.193	ID:3	fe80::212:7406:6:606
+00:21.193	ID:3	fe80::212:7406:6:606
+00:21.324	ID:3	fe80::212:7406:6:606
+00:21.676	ID:1	fe80::212:7403:3:303
+00:22.194	ID:3	fe80::212:7406:6:606
+00:25.397	ID:4	fe80::212:7403:3:303
+00:25.410	ID:2	fe80::212:7403:3:303
+00:25.432	ID:1	fe80::212:7403:3:303
+00:25.528	ID:2	fe80::212:7403:3:303
+00:25.641	ID:4	fe80::212:7403:3:303
+00:25.674	ID:1	fe80::212:7403:3:303
+00:26.193	ID:3	fe80::212:7406:6:606
+00:28.398	ID:4	fe80::212:7403:3:303
+00:28.430	ID:1	fe80::212:7403:3:303
+00:28.449	ID:3	fe80::212:7406:6:606
+00:28.641	ID:4	fe80::212:7403:3:303
+00:28.655	ID:4	fe80::212:7403:3:303
+00:28.661	ID:2	fe80::212:7403:3:303
+00:28.698	ID:3	fe80::212:7406:6:606
+00:28.720	ID:1	fe80::212:7403:3:303
+00:29.193	ID:3	fe80::212:7406:6:606
+00:29.200	ID:3	fe80::212:7406:6:606
+00:29.529	ID:2	fe80::212:7403:3:303
+00:29.641	ID:4	fe80::212:7403:3:303
+00:29.675	ID:1	fe80::212:7403:3:303
+00:30.193	ID:3	fe80::212:7406:6:606
+00:30.530	ID:2	fe80::212:7403:3:303
+00:30.642	ID:4	fe80::212:7403:3:303
+00:31.160	ID:2	fe80::212:7403:3:303
+00:31.182	ID:1	fe80::212:7403:3:303
+00:31.203	ID:3	fe80::212:7406:6:606
+00:31.529	ID:2	fe80::212:7403:3:303
+00:31.675	ID:1	fe80::212:7403:3:303
+00:32.193	ID:3	fe80::212:7406:6:606
+00:48.933	ID:1	fe80::212:7403:3:303
+00:49.022	ID:4	fe80::212:7403:3:303
+00:49.035	ID:2	fe80::212:7403:3:303
+00:49.528	ID:2	fe80::212:7403:3:303
+00:49.641	ID:4	fe80::212:7403:3:303
+00:49.674	ID:1	fe80::212:7403:3:303
